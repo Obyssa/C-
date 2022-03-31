@@ -1,0 +1,13 @@
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.AssemblyInfo.cs
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.exe
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.deps.json
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.runtimeconfig.json
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.dll
+P:\block1\Programation\1erappli\corection\corection\bin\Debug\netcoreapp3.1\corection.pdb
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.dll
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.pdb
+P:\block1\Programation\1erappli\corection\corection\obj\Debug\netcoreapp3.1\corection.genruntimeconfig.cache

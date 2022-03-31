@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\bloc 1\\Programation\\1erappli\\corection\\corection\\corection.csproj": {}
+  },
+  "projects": {
+    "P:\\bloc 1\\Programation\\1erappli\\corection\\corection\\corection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\bloc 1\\Programation\\1erappli\\corection\\corection\\corection.csproj",
+        "projectName": "corection",
+        "projectPath": "P:\\bloc 1\\Programation\\1erappli\\corection\\corection\\corection.csproj",
+        "packagesPath": "C:\\Users\\M.lapena\\.nuget\\packages\\",
+        "outputPath": "P:\\bloc 1\\Programation\\1erappli\\corection\\corection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M.lapena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

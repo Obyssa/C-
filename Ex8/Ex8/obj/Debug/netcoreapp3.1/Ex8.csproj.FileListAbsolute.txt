@@ -1,0 +1,13 @@
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.exe
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.deps.json
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.runtimeconfig.json
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.dll
+P:\block1\Programation\1erappli\Ex8\Ex8\bin\Debug\netcoreapp3.1\Ex8.pdb
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.AssemblyInfo.cs
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.dll
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.pdb
+P:\block1\Programation\1erappli\Ex8\Ex8\obj\Debug\netcoreapp3.1\Ex8.genruntimeconfig.cache
