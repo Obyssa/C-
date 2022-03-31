@@ -1,0 +1,13 @@
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.exe
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.deps.json
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.runtimeconfig.json
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.runtimeconfig.dev.json
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.dll
+P:\Programation\1erappli\1er-applis\1er-applis\bin\Debug\netcoreapp3.1\1er-applis.pdb
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.csproj.AssemblyReference.cache
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.AssemblyInfoInputs.cache
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.AssemblyInfo.cs
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.csproj.CoreCompileInputs.cache
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.dll
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.pdb
+P:\Programation\1erappli\1er-applis\1er-applis\obj\Debug\netcoreapp3.1\1er-applis.genruntimeconfig.cache
