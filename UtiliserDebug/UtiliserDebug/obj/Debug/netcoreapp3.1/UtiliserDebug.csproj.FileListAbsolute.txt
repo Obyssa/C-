@@ -1,0 +1,38 @@
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.exe
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.deps.json
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.json
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.dev.json
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.dll
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.pdb
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfoInputs.cache
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfo.cs
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.csproj.CoreCompileInputs.cache
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.dll
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.pdb
+C:\Users\j.depeyre\source\repos\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.genruntimeconfig.cache
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.exe
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.deps.json
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.json
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.dev.json
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.dll
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.pdb
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.csproj.AssemblyReference.cache
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfoInputs.cache
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfo.cs
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.csproj.CoreCompileInputs.cache
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.dll
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.pdb
+N:\SIO2023\_Etudiant\Bloc 1\Programmation\exercices\debug\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.genruntimeconfig.cache
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.exe
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.deps.json
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.json
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.dll
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\bin\Debug\netcoreapp3.1\UtiliserDebug.pdb
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.AssemblyInfo.cs
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.dll
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.pdb
+P:\block1\Programation\1erappli\UtiliserDebug\UtiliserDebug\obj\Debug\netcoreapp3.1\UtiliserDebug.genruntimeconfig.cache
