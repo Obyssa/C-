@@ -1,0 +1,13 @@
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.exe
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.deps.json
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.runtimeconfig.json
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.dll
+P:\block1\Programation\1erappli\liste\liste\bin\Debug\netcoreapp3.1\liste.pdb
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.AssemblyInfo.cs
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.dll
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.pdb
+P:\block1\Programation\1erappli\liste\liste\obj\Debug\netcoreapp3.1\liste.genruntimeconfig.cache
