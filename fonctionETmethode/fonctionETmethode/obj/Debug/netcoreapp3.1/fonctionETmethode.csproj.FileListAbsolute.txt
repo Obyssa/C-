@@ -1,0 +1,13 @@
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.exe
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.deps.json
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.runtimeconfig.json
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.dll
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\bin\Debug\netcoreapp3.1\fonctionETmethode.pdb
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.AssemblyInfo.cs
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.dll
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.pdb
+P:\block1\Programation\1erappli\fonctionETmethode\fonctionETmethode\obj\Debug\netcoreapp3.1\fonctionETmethode.genruntimeconfig.cache
