@@ -1,0 +1,13 @@
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.exe
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.deps.json
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.runtimeconfig.json
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.runtimeconfig.dev.json
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.dll
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\bin\Debug\netcoreapp3.1\Exercice tableau 2.pdb
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.csproj.AssemblyReference.cache
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.AssemblyInfoInputs.cache
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.AssemblyInfo.cs
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.csproj.CoreCompileInputs.cache
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.dll
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.pdb
+P:\block1\Programation\1erappli\Exercice tableau 2\Exercice tableau 2\obj\Debug\netcoreapp3.1\Exercice tableau 2.genruntimeconfig.cache
